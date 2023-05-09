@@ -1,4 +1,4 @@
-package com.coderdojo.zen.apigateway;
+package com.coderdojo.zen.configuration;
 
 import org.junit.jupiter.api.Test;
 

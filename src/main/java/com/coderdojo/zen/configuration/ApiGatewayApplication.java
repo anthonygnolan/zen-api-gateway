@@ -1,4 +1,4 @@
-package com.coderdojo.zen.apigateway;
+package com.coderdojo.zen.configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
